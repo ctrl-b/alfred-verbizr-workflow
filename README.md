@@ -12,7 +12,7 @@ Alfred Workflow for french conjugation
 
 ### Some issues that need to be fixed
 
-- [ ] Order of pronomns not always showing in correct order. (je","tu","il/elle","nous","vous","ils/elles")
+- [ ] Order of pronomns not always showing in correct order. (je","tu","il/elle","nous","vous","ils/elles"), the pronom with their respective verbs it is 0k
 - [ ] Code?
 - [ ] Lag before show the results
 
@@ -33,4 +33,4 @@ I included cii for indicative imperfect, but it is a hard modified version of th
 
 #### Project description
 
-This workflow born by the necesity to get a fast conjugation reference, I made this workflow with just one day of learning and googling python so maybe the code it is not so great, that's why I commented to try to explain what I need try to do, if you can clean it or improve you are welcome !
+This workflow born by the necesity to get a fast conjugation reference, I made this workflow with just one day of learning and googling python so maybe the code it is not so great, that's why I commented the code, if you can clean it or improve you are welcome !
