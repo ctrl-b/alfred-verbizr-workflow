@@ -12,15 +12,15 @@ Alfred Workflow for french conjugation
 
 ### Some issues that need to be fixed
 
-- [] Order of pronomns not always showing in correct order. (je","tu","il/elle","nous","vous","ils/elles")
-- [] Code?
-- [] Lag before show the results
+- [ ] Order of pronomns not always showing in correct order. (je","tu","il/elle","nous","vous","ils/elles")
+- [ ] Code?
+- [ ] Lag before show the results
 
 ### What can be great
 
-- [] Direct input to select the desired time to conjugate
-- [] Get some fancy images
-- [] New great ideas
+- [ ] Direct input to select the desired time to conjugate
+- [ ] Get some fancy images
+- [ ] New great ideas
 
 ### Usage
 
